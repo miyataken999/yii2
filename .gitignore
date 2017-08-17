@@ -39,6 +39,6 @@ phpunit.phar
 /apps
 /extensions
 
-# NPM packages
+# NPM packages2
 /node_modules
 .env
